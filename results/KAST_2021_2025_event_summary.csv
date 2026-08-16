@@ -1,0 +1,2 @@
+airport,start_year,end_year,event_count,total_event_hours,median_event_minutes,mean_event_minutes,maximum_event_hours,events_at_least_1_hour,events_at_least_2_hours,share_events_at_least_1_hour_percent,share_hours_from_events_at_least_1_hour_percent
+KAST,2021,2025,555,160.633333,12.000000,17.365766,2.000000,15,1,2.702703,12.004565

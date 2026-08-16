@@ -1,0 +1,2 @@
+airport,start_year,end_year,event_count,total_event_hours,median_event_minutes,mean_event_minutes,maximum_event_hours,events_at_least_1_hour,events_at_least_2_hours,share_events_at_least_1_hour_percent,share_hours_from_events_at_least_1_hour_percent
+KHQM,2021,2025,847,430.066667,18.000000,30.465171,8.100000,91,28,10.743802,39.505503

@@ -1,0 +1,5 @@
+airport,target_visibility_range,median_annual_hours,total_event_hours,event_count,median_event_minutes,maximum_event_hours,share_events_at_least_1_hour_percent,share_hours_from_events_at_least_1_hour_percent
+KCEC,0.75 to below 1.00 miles,102.650000,526.733333,1416,15.000000,3.300000,6.991525,24.218453
+KAST,0.75 to below 1.00 miles,29.950000,160.633333,555,12.000000,2.000000,2.702703,12.004565
+KHQM,0.50 to below 1.25 miles,87.316667,430.066667,847,18.000000,8.100000,10.743802,39.505503
+KGRI,0.50 to below 0.75 miles,29.633333,177.900000,306,21.000000,7.000000,15.686275,51.105490

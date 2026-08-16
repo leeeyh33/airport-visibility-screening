@@ -1,0 +1,2 @@
+airport,start_year,end_year,event_count,total_event_hours,median_event_minutes,mean_event_minutes,maximum_event_hours,events_at_least_1_hour,events_at_least_2_hours,share_events_at_least_1_hour_percent,share_hours_from_events_at_least_1_hour_percent
+KGRI,2021,2025,306,177.900000,21.000000,34.882353,7.000000,48,16,15.686275,51.105490
